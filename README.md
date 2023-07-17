@@ -1,2 +1,2 @@
-https://lawo69.github.io/barista/
+# barista
 Barista login page
